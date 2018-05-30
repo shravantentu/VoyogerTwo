@@ -1,0 +1,20 @@
+#Browser
+Browser =
+
+
+
+#API Parameters 
+CreateUser = False
+userOne = 
+userTwo =  
+userThree = 
+userFour = 
+userFive =
+
+# Browser setting
+maximize = true
+
+
+# Run smoke tests in parallel
+smokeParallel = false
+ 
