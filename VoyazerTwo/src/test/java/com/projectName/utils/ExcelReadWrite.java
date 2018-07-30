@@ -47,6 +47,7 @@ public class ExcelReadWrite {
 		}
 		return true;
 	}
+}
 
 	/*public string getcelldata(String fname,String colName, int rownum) {
 		this.fis = fis;
